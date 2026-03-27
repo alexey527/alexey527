@@ -57,15 +57,8 @@ Right now, I am actively taking on **freelance projects and remote contract work
 
 ### 🚀 Featured Projects
 
-*(Pin your top 4-6 repositories to your profile, such as:)*
+
 - **[Project Name 1: e.g., Automated Trading/Stock Bot]** - Python bot utilizing financial APIs.
 - **[Project Name 2: e.g., Corporate OCR SaaS Libraries]** - Open-source excerpts or concepts based on my internship.
 - **[Project Name 3: e.g., Dockerized Web App]** - Full-stack application containerized with Docker.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=000000" alt="Aleksei's GitHub Stats" />
-</p>
