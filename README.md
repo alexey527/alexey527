@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksei Zuev</h1>
-<h3 align="center">Full-Stack Developer | Python Automation Expert | Incoming UofT</h3>
+<h3 align="center">Full-Stack Developer | Python Automation Expert | Incoming U of Toronto</h3>
 
 <p align="center">
   <a href="mailto:alekseiproton@gmail.com">
